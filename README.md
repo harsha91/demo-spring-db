@@ -11,3 +11,8 @@
 
 #### How to Run:
 you can use ./runApp.sh to run the app localy, note you need Java 11 & docker to run the app locally
+
+
+#### Unit testing
+- Unit testing using Junit 5 & Spring test runner
+- Pitest to measure code coverage (Reports under build/reports/pitest/<runnumber>/index.html)
