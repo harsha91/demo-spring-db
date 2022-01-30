@@ -1,0 +1,1 @@
+insert into test_table (description, title, id) values ('tst', 'test', (select nextval ('hibernate_sequence')));
